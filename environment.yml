@@ -1,0 +1,8 @@
+name: ipython-environment
+channels:
+  - conda-forge
+dependencies:
+  - requests
+  - numpy
+  - matplotlib
+  - pandas
