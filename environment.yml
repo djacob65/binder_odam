@@ -6,3 +6,6 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - sklearn
+  - sklearn.preprocessing
+  - sklearn.decomposition
