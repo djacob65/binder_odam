@@ -2,7 +2,7 @@
 
 # binder_odam
 
-In order to illustrate a reproducible search process, we provide examples of jupiter notebooks (R & Python) based on the [ODAM](https://pmb-bordeaux.fr/dataexplorer/) Web API, as well as links to view them (Jupyter nbviewer) and re-run them (MyBinder)
+In order to illustrate a reproducible research process, we provide examples of jupiter notebooks (R & Python) based on the [ODAM](https://pmb-bordeaux.fr/dataexplorer/) Web API, as well as links to view them (Jupyter nbviewer) and re-run them (MyBinder)
 
 
 ## Jupyter Notebook Viewer
