@@ -16,10 +16,6 @@ https://nbviewer.jupyter.org/github/djacob65/binder_odam/
 * nteract : https://mybinder.org/v2/gh/djacob65/binder_odam/master?urlpath=nteract
 * Rstudio : https://mybinder.org/v2/gh/djacob65/binder_odam/master?urlpath=rstudio
 
-## ODAM djacob65/binder_odam/
-
-https://pmb-bordeaux.fr/dataexplorer/
-
 ---
 
 ### Documentation
