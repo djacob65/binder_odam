@@ -1,8 +1,8 @@
-[![Generic badge](https://img.shields.io/badge/ODAM-Framework-blue.svg)](https://pmb-bordeaux.fr/dataexplorer/)
+[![Generic badge](https://img.shields.io/badge/ODAM-Framework-blue.svg)](https://inrae.github.io/ODAM/)
 
 # binder_odam
 
-In order to illustrate a reproducible research process, we provide examples of jupiter notebooks (R & Python) based on the [ODAM](https://pmb-bordeaux.fr/dataexplorer/) Web API, as well as links to view them (Jupyter nbviewer) and re-run them (MyBinder)
+In order to illustrate a reproducible research process, we provide examples of jupiter notebooks (R & Python) based on the [ODAM](https://inrae.github.io/ODAM/) Web API, as well as links to view them (Jupyter nbviewer) and re-run them (MyBinder)
 
 
 ## Jupyter Notebook Viewer
